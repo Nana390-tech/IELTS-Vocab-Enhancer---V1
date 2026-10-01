@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "sets": 20,
+    "words": 100,
+    "note": "All learning text is newly written."
+  },
+  "sets": [
+    {
+      "id": 1,
+      "title": "Academic Connections",
+      "arabic": "روابط أكاديمية",
+      "icon": "🔗",
+      "words": [
+        {
+          "word": "furthermore",
+          "arabic": "علاوة على ذلك",
+          "definition": "adds a supporting point",
+          "example": "Students created a fresh example using “furthermore” while discussing academic connections."
+        },
+        {
+          "word": "nevertheless",
+          "arabic": "ومع ذلك",
+          "definition": "contrasts with the previous point",
+          "example": "Students created a fresh example using “nevertheless” while discussing academic connections."
+        },
+        {
+          "word": "whereas",
+          "arabic": "في حين أن",
+          "definition": "compares two different facts",
+          "example": "Students created a fresh example using “whereas” while discussing academic connections."
+        },
+        {
+          "word": "consequently",
+          "arabic": "وبناء على ذلك",
+          "definition": "shows a result",
+          "example": "Students created a fresh example using “consequently” while discussing academic connections."
+        },
+        {
+          "word": "in conclusion",
+          "arabic": "في الختام",
+          "definition": "introduces a final summary",
+          "example": "Students created a fresh example using “in conclusion” while discussing academic connections."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Trends and Change",
+      "arabic": "الاتجاهات والتغيير",
+      "icon": "📈",
+      "words": [
+        {
+          "word": "fluctuate",
+          "arabic": "يتذبذب",
+          "definition": "rise and fall irregularly",
+          "example": "Students created a fresh example using “fluctuate” while discussing trends and change."
+        },
+        {
+          "word": "peak",
+          "arabic": "يبلغ الذروة",
+          "definition": "reach the highest point",
+          "example": "Students created a fresh example using “peak” while discussing trends and change."
+        },
+        {
+          "word": "decline",
+          "arabic": "ينخفض",
+          "definition": "become smaller",
+          "example": "Students created a fresh example using “decline” while discussing trends and change."
+        },
+        {
+          "word": "remain stable",
+          "arabic": "يبقى مستقراً",
+          "definition": "stay at the same level",
+          "example": "Students created a fresh example using “remain stable” while discussing trends and change."
+        },
+        {
+          "word": "transform",
+          "arabic": "يحوّل",
+          "definition": "change completely",
+          "example": "Students created a fresh example using “transform” while discussing trends and change."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cause and Result",
+      "arabic": "السبب والنتيجة",
+      "icon": "🧩",
+      "words": [
+        {
+          "word": "contribute",
+          "arabic": "يساهم",
+          "definition": "help cause something",
+          "example": "Students created a fresh example using “contribute” while discussing cause and result."
+        },
+        {
+          "word": "trigger",
+          "arabic": "يسبب",
+          "definition": "cause something to start",
+          "example": "Students created a fresh example using “trigger” while discussing cause and result."
+        },
+        {
+          "word": "stem from",
+          "arabic": "ينبع من",
+          "definition": "be caused by",
+          "example": "Students created a fresh example using “stem from” while discussing cause and result."
+        },
+        {
+          "word": "consequence",
+          "arabic": "عاقبة",
+          "definition": "a result of an action",
+          "example": "Students created a fresh example using “consequence” while discussing cause and result."
+        },
+        {
+          "word": "factor",
+          "arabic": "عامل",
+          "definition": "one influence on a result",
+          "example": "Students created a fresh example using “factor” while discussing cause and result."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Comparing Ideas",
+      "arabic": "مقارنة الأفكار",
+      "icon": "⚖️",
+      "words": [
+        {
+          "word": "distinguish",
+          "arabic": "يميّز",
+          "definition": "recognise a difference",
+          "example": "Students created a fresh example using “distinguish” while discussing comparing ideas."
+        },
+        {
+          "word": "identical",
+          "arabic": "متطابق",
+          "definition": "exactly the same",
+          "example": "Students created a fresh example using “identical” while discussing comparing ideas."
+        },
+        {
+          "word": "discrepancy",
+          "arabic": "تفاوت",
+          "definition": "an unexpected difference",
+          "example": "Students created a fresh example using “discrepancy” while discussing comparing ideas."
+        },
+        {
+          "word": "comparable",
+          "arabic": "قابل للمقارنة",
+          "definition": "similar enough to compare",
+          "example": "Students created a fresh example using “comparable” while discussing comparing ideas."
+        },
+        {
+          "word": "outweigh",
+          "arabic": "يفوق",
+          "definition": "be more important than",
+          "example": "Students created a fresh example using “outweigh” while discussing comparing ideas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Opinion and Argument",
+      "arabic": "الرأي والحجة",
+      "icon": "💬",
+      "words": [
+        {
+          "word": "assert",
+          "arabic": "يؤكد",
+          "definition": "state confidently",
+          "example": "Students created a fresh example using “assert” while discussing opinion and argument."
+        },
+        {
+          "word": "perspective",
+          "arabic": "وجهة نظر",
+          "definition": "a way of viewing something",
+          "example": "Students created a fresh example using “perspective” while discussing opinion and argument."
+        },
+        {
+          "word": "justify",
+          "arabic": "يبرر",
+          "definition": "give a good reason",
+          "example": "Students created a fresh example using “justify” while discussing opinion and argument."
+        },
+        {
+          "word": "counterargument",
+          "arabic": "حجة مضادة",
+          "definition": "an opposing argument",
+          "example": "Students created a fresh example using “counterargument” while discussing opinion and argument."
+        },
+        {
+          "word": "stance",
+          "arabic": "موقف",
+          "definition": "a clear position",
+          "example": "Students created a fresh example using “stance” while discussing opinion and argument."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Education",
+      "arabic": "التعليم",
+      "icon": "🎓",
+      "words": [
+        {
+          "word": "curriculum",
+          "arabic": "منهج دراسي",
+          "definition": "course subjects and content",
+          "example": "Students created a fresh example using “curriculum” while discussing education."
+        },
+        {
+          "word": "assessment",
+          "arabic": "تقييم",
+          "definition": "a task used to judge learning",
+          "example": "Students created a fresh example using “assessment” while discussing education."
+        },
+        {
+          "word": "enrol",
+          "arabic": "يسجل",
+          "definition": "officially join a course",
+          "example": "Students created a fresh example using “enrol” while discussing education."
+        },
+        {
+          "word": "proficiency",
+          "arabic": "إتقان",
+          "definition": "a high level of skill",
+          "example": "Students created a fresh example using “proficiency” while discussing education."
+        },
+        {
+          "word": "retain",
+          "arabic": "يتذكر",
+          "definition": "keep information in memory",
+          "example": "Students created a fresh example using “retain” while discussing education."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Work and Careers",
+      "arabic": "العمل والمهن",
+      "icon": "💼",
+      "words": [
+        {
+          "word": "applicant",
+          "arabic": "متقدم",
+          "definition": "a person applying for a position",
+          "example": "Students created a fresh example using “applicant” while discussing work and careers."
+        },
+        {
+          "word": "recruit",
+          "arabic": "يوظف",
+          "definition": "find and employ workers",
+          "example": "Students created a fresh example using “recruit” while discussing work and careers."
+        },
+        {
+          "word": "incentive",
+          "arabic": "حافز",
+          "definition": "something encouraging action",
+          "example": "Students created a fresh example using “incentive” while discussing work and careers."
+        },
+        {
+          "word": "initiative",
+          "arabic": "مبادرة",
+          "definition": "ability to act independently",
+          "example": "Students created a fresh example using “initiative” while discussing work and careers."
+        },
+        {
+          "word": "workload",
+          "arabic": "عبء العمل",
+          "definition": "the amount of assigned work",
+          "example": "Students created a fresh example using “workload” while discussing work and careers."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Environment",
+      "arabic": "البيئة",
+      "icon": "🌿",
+      "words": [
+        {
+          "word": "sustainable",
+          "arabic": "مستدام",
+          "definition": "able to continue without exhausting resources",
+          "example": "Students created a fresh example using “sustainable” while discussing environment."
+        },
+        {
+          "word": "biodiversity",
+          "arabic": "التنوع الحيوي",
+          "definition": "variety of living things",
+          "example": "Students created a fresh example using “biodiversity” while discussing environment."
+        },
+        {
+          "word": "conservation",
+          "arabic": "حماية البيئة",
+          "definition": "protection of nature",
+          "example": "Students created a fresh example using “conservation” while discussing environment."
+        },
+        {
+          "word": "mitigate",
+          "arabic": "يخفف",
+          "definition": "reduce seriousness",
+          "example": "Students created a fresh example using “mitigate” while discussing environment."
+        },
+        {
+          "word": "ecosystem",
+          "arabic": "نظام بيئي",
+          "definition": "living things and their environment",
+          "example": "Students created a fresh example using “ecosystem” while discussing environment."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Science and Technology",
+      "arabic": "العلوم والتكنولوجيا",
+      "icon": "🔬",
+      "words": [
+        {
+          "word": "innovation",
+          "arabic": "ابتكار",
+          "definition": "a new idea or product",
+          "example": "Students created a fresh example using “innovation” while discussing science and technology."
+        },
+        {
+          "word": "breakthrough",
+          "arabic": "إنجاز كبير",
+          "definition": "an important discovery",
+          "example": "Students created a fresh example using “breakthrough” while discussing science and technology."
+        },
+        {
+          "word": "automate",
+          "arabic": "يؤتمت",
+          "definition": "make a process automatic",
+          "example": "Students created a fresh example using “automate” while discussing science and technology."
+        },
+        {
+          "word": "algorithm",
+          "arabic": "خوارزمية",
+          "definition": "rules a computer follows",
+          "example": "Students created a fresh example using “algorithm” while discussing science and technology."
+        },
+        {
+          "word": "ethical",
+          "arabic": "أخلاقي",
+          "definition": "morally acceptable",
+          "example": "Students created a fresh example using “ethical” while discussing science and technology."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Health and Lifestyle",
+      "arabic": "الصحة ونمط الحياة",
+      "icon": "❤️",
+      "words": [
+        {
+          "word": "sedentary",
+          "arabic": "قليل الحركة",
+          "definition": "involving too much sitting",
+          "example": "Students created a fresh example using “sedentary” while discussing health and lifestyle."
+        },
+        {
+          "word": "nutrition",
+          "arabic": "تغذية",
+          "definition": "food needed for health",
+          "example": "Students created a fresh example using “nutrition” while discussing health and lifestyle."
+        },
+        {
+          "word": "vulnerable",
+          "arabic": "معرّض للخطر",
+          "definition": "easily harmed",
+          "example": "Students created a fresh example using “vulnerable” while discussing health and lifestyle."
+        },
+        {
+          "word": "chronic",
+          "arabic": "مزمن",
+          "definition": "continuing for a long time",
+          "example": "Students created a fresh example using “chronic” while discussing health and lifestyle."
+        },
+        {
+          "word": "therapeutic",
+          "arabic": "علاجي",
+          "definition": "helping to relieve a condition",
+          "example": "Students created a fresh example using “therapeutic” while discussing health and lifestyle."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Cities and Transport",
+      "arabic": "المدن والنقل",
+      "icon": "🏙️",
+      "words": [
+        {
+          "word": "congestion",
+          "arabic": "ازدحام",
+          "definition": "too much traffic",
+          "example": "Students created a fresh example using “congestion” while discussing cities and transport."
+        },
+        {
+          "word": "infrastructure",
+          "arabic": "بنية تحتية",
+          "definition": "basic systems society needs",
+          "example": "Students created a fresh example using “infrastructure” while discussing cities and transport."
+        },
+        {
+          "word": "commute",
+          "arabic": "يتنقل يومياً",
+          "definition": "travel regularly to work",
+          "example": "Students created a fresh example using “commute” while discussing cities and transport."
+        },
+        {
+          "word": "urban sprawl",
+          "arabic": "التمدد العمراني",
+          "definition": "uncontrolled city growth",
+          "example": "Students created a fresh example using “urban sprawl” while discussing cities and transport."
+        },
+        {
+          "word": "mobility",
+          "arabic": "سهولة التنقل",
+          "definition": "ability to move easily",
+          "example": "Students created a fresh example using “mobility” while discussing cities and transport."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Business and Money",
+      "arabic": "الأعمال والمال",
+      "icon": "💰",
+      "words": [
+        {
+          "word": "revenue",
+          "arabic": "إيرادات",
+          "definition": "money received",
+          "example": "Students created a fresh example using “revenue” while discussing business and money."
+        },
+        {
+          "word": "expenditure",
+          "arabic": "إنفاق",
+          "definition": "money spent",
+          "example": "Students created a fresh example using “expenditure” while discussing business and money."
+        },
+        {
+          "word": "inflation",
+          "arabic": "تضخم",
+          "definition": "a general rise in prices",
+          "example": "Students created a fresh example using “inflation” while discussing business and money."
+        },
+        {
+          "word": "deficit",
+          "arabic": "عجز",
+          "definition": "spending beyond income",
+          "example": "Students created a fresh example using “deficit” while discussing business and money."
+        },
+        {
+          "word": "allocate",
+          "arabic": "يخصص",
+          "definition": "officially give for a purpose",
+          "example": "Students created a fresh example using “allocate” while discussing business and money."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Media and Communication",
+      "arabic": "الإعلام والتواصل",
+      "icon": "📰",
+      "words": [
+        {
+          "word": "coverage",
+          "arabic": "تغطية إعلامية",
+          "definition": "reporting of an event",
+          "example": "Students created a fresh example using “coverage” while discussing media and communication."
+        },
+        {
+          "word": "headline",
+          "arabic": "عنوان رئيسي",
+          "definition": "title of a news report",
+          "example": "Students created a fresh example using “headline” while discussing media and communication."
+        },
+        {
+          "word": "misinformation",
+          "arabic": "معلومات مضللة",
+          "definition": "false information",
+          "example": "Students created a fresh example using “misinformation” while discussing media and communication."
+        },
+        {
+          "word": "credible",
+          "arabic": "ذو مصداقية",
+          "definition": "believable and trustworthy",
+          "example": "Students created a fresh example using “credible” while discussing media and communication."
+        },
+        {
+          "word": "current affairs",
+          "arabic": "الشؤون الجارية",
+          "definition": "important events happening now",
+          "example": "Students created a fresh example using “current affairs” while discussing media and communication."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Travel and Culture",
+      "arabic": "السفر والثقافة",
+      "icon": "✈️",
+      "words": [
+        {
+          "word": "destination",
+          "arabic": "وجهة",
+          "definition": "place travelled to",
+          "example": "Students created a fresh example using “destination” while discussing travel and culture."
+        },
+        {
+          "word": "itinerary",
+          "arabic": "مسار الرحلة",
+          "definition": "planned route and schedule",
+          "example": "Students created a fresh example using “itinerary” while discussing travel and culture."
+        },
+        {
+          "word": "accommodation",
+          "arabic": "إقامة",
+          "definition": "a place to stay",
+          "example": "Students created a fresh example using “accommodation” while discussing travel and culture."
+        },
+        {
+          "word": "heritage",
+          "arabic": "تراث",
+          "definition": "culture passed from the past",
+          "example": "Students created a fresh example using “heritage” while discussing travel and culture."
+        },
+        {
+          "word": "culture shock",
+          "arabic": "صدمة ثقافية",
+          "definition": "confusion in an unfamiliar culture",
+          "example": "Students created a fresh example using “culture shock” while discussing travel and culture."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Crime and Law",
+      "arabic": "الجريمة والقانون",
+      "icon": "⚖️",
+      "words": [
+        {
+          "word": "offender",
+          "arabic": "جانٍ",
+          "definition": "a person who breaks the law",
+          "example": "Students created a fresh example using “offender” while discussing crime and law."
+        },
+        {
+          "word": "witness",
+          "arabic": "شاهد",
+          "definition": "a person who sees an event",
+          "example": "Students created a fresh example using “witness” while discussing crime and law."
+        },
+        {
+          "word": "evidence",
+          "arabic": "أدلة",
+          "definition": "facts used to prove something",
+          "example": "Students created a fresh example using “evidence” while discussing crime and law."
+        },
+        {
+          "word": "verdict",
+          "arabic": "حكم قضائي",
+          "definition": "a formal court decision",
+          "example": "Students created a fresh example using “verdict” while discussing crime and law."
+        },
+        {
+          "word": "deterrent",
+          "arabic": "رادع",
+          "definition": "something discouraging an action",
+          "example": "Students created a fresh example using “deterrent” while discussing crime and law."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Global Challenges",
+      "arabic": "التحديات العالمية",
+      "icon": "🌍",
+      "words": [
+        {
+          "word": "drought",
+          "arabic": "جفاف",
+          "definition": "a long period without rain",
+          "example": "Students created a fresh example using “drought” while discussing global challenges."
+        },
+        {
+          "word": "famine",
+          "arabic": "مجاعة",
+          "definition": "extreme food shortage",
+          "example": "Students created a fresh example using “famine” while discussing global challenges."
+        },
+        {
+          "word": "refugee",
+          "arabic": "لاجئ",
+          "definition": "a person forced to leave for safety",
+          "example": "Students created a fresh example using “refugee” while discussing global challenges."
+        },
+        {
+          "word": "displacement",
+          "arabic": "نزوح",
+          "definition": "being forced from home",
+          "example": "Students created a fresh example using “displacement” while discussing global challenges."
+        },
+        {
+          "word": "humanitarian",
+          "arabic": "إنساني",
+          "definition": "concerned with reducing suffering",
+          "example": "Students created a fresh example using “humanitarian” while discussing global challenges."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Food and Diet",
+      "arabic": "الغذاء والنظام الغذائي",
+      "icon": "🥗",
+      "words": [
+        {
+          "word": "nutritious",
+          "arabic": "مغذٍ",
+          "definition": "containing substances needed for health",
+          "example": "Students created a fresh example using “nutritious” while discussing food and diet."
+        },
+        {
+          "word": "fibre",
+          "arabic": "ألياف",
+          "definition": "plant material supporting digestion",
+          "example": "Students created a fresh example using “fibre” while discussing food and diet."
+        },
+        {
+          "word": "processed",
+          "arabic": "مصنّع",
+          "definition": "changed from a natural state",
+          "example": "Students created a fresh example using “processed” while discussing food and diet."
+        },
+        {
+          "word": "portion",
+          "arabic": "حصة",
+          "definition": "food amount for one person",
+          "example": "Students created a fresh example using “portion” while discussing food and diet."
+        },
+        {
+          "word": "malnutrition",
+          "arabic": "سوء تغذية",
+          "definition": "poor health from unsuitable food",
+          "example": "Students created a fresh example using “malnutrition” while discussing food and diet."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Nature and Geography",
+      "arabic": "الطبيعة والجغرافيا",
+      "icon": "🏔️",
+      "words": [
+        {
+          "word": "plateau",
+          "arabic": "هضبة",
+          "definition": "high flat land",
+          "example": "Students created a fresh example using “plateau” while discussing nature and geography."
+        },
+        {
+          "word": "tributary",
+          "arabic": "رافد",
+          "definition": "smaller river joining a larger one",
+          "example": "Students created a fresh example using “tributary” while discussing nature and geography."
+        },
+        {
+          "word": "erosion",
+          "arabic": "تعرية",
+          "definition": "gradual wearing away",
+          "example": "Students created a fresh example using “erosion” while discussing nature and geography."
+        },
+        {
+          "word": "irrigation",
+          "arabic": "ري",
+          "definition": "supplying water to crops",
+          "example": "Students created a fresh example using “irrigation” while discussing nature and geography."
+        },
+        {
+          "word": "summit",
+          "arabic": "قمة",
+          "definition": "highest mountain point",
+          "example": "Students created a fresh example using “summit” while discussing nature and geography."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Data and Research",
+      "arabic": "البيانات والبحث",
+      "icon": "📊",
+      "words": [
+        {
+          "word": "estimate",
+          "arabic": "يقدّر",
+          "definition": "calculate approximately",
+          "example": "Students created a fresh example using “estimate” while discussing data and research."
+        },
+        {
+          "word": "evaluate",
+          "arabic": "يقيّم",
+          "definition": "judge quality or effect",
+          "example": "Students created a fresh example using “evaluate” while discussing data and research."
+        },
+        {
+          "word": "sample",
+          "arabic": "عينة",
+          "definition": "a representative group",
+          "example": "Students created a fresh example using “sample” while discussing data and research."
+        },
+        {
+          "word": "variable",
+          "arabic": "متغير",
+          "definition": "a factor that can change",
+          "example": "Students created a fresh example using “variable” while discussing data and research."
+        },
+        {
+          "word": "methodology",
+          "arabic": "منهجية",
+          "definition": "system of research methods",
+          "example": "Students created a fresh example using “methodology” while discussing data and research."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Word Power",
+      "arabic": "قوة الكلمات",
+      "icon": "🧠",
+      "words": [
+        {
+          "word": "arduous",
+          "arabic": "شاق",
+          "definition": "requiring great effort",
+          "example": "Students created a fresh example using “arduous” while discussing word power."
+        },
+        {
+          "word": "resilient",
+          "arabic": "مرن",
+          "definition": "able to recover quickly",
+          "example": "Students created a fresh example using “resilient” while discussing word power."
+        },
+        {
+          "word": "imperative",
+          "arabic": "ضروري للغاية",
+          "definition": "extremely important",
+          "example": "Students created a fresh example using “imperative” while discussing word power."
+        },
+        {
+          "word": "viable",
+          "arabic": "قابل للتطبيق",
+          "definition": "capable of working",
+          "example": "Students created a fresh example using “viable” while discussing word power."
+        },
+        {
+          "word": "innovative",
+          "arabic": "مبتكر",
+          "definition": "using new ideas",
+          "example": "Students created a fresh example using “innovative” while discussing word power."
+        }
+      ]
+    }
+  ]
+}
